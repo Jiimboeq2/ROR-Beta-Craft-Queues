@@ -2,7 +2,7 @@
 saving you time and effort by creating craft queues!
 
 
-right click **code** dropdown and doanload zip**
+right click **code** dropdown and download zip**
 
 place them 
 
